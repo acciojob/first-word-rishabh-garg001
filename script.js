@@ -13,7 +13,7 @@ while (i < s.length && s[i] != " ") {
 if (s.length > 0)
     return res;
 else
-    return " ";
+    return "";
 }
 
 // Do not change the code below
